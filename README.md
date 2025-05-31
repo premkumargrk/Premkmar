@@ -7,11 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/prem-kumarg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prem-kumarg/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@prem-kumar-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@prem-kumar-g" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/prem_rk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/prem_rk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/www.hackerrank.com/profile/premkumargrk395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/profile/premkumargrk395" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/u/prem-kumar-g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/prem-kumar-g/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prem-kumarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem-kumarg" height="30" width="40" /></a>
+<a href="https://hashnode.com/@prem-kumar-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@prem-kumar-g" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prem_rk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prem_rk" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/premkumargrk395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="premkumargrk395" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prem-kumar-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prem-kumar-g" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=premkumargrk&show_icons=true&locale=en&layout=compact" alt="premkumargrk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=premkumargrk&show_icons=true&locale=en" alt="premkumargrk" /></p>
-
