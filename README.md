@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 I’m currently learning **Django, NodeJS, Java, C**
-
+- 📝 I regularly write articles on [hashnode.com/@prem-kumar-g](https://hashnode.com/@prem-kumar-g)
 ---
 
 <h3 align="center">🔗 Connect with me</h3>
