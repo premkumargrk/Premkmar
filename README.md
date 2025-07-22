@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="I'm just developing as well learning">
 </p>
-- 🌱 I’m currently learning **Django, NodeJS, Java, C**
+- 🌱 I’m currently learning Django, NodeJS, Java, C, AWS
 - 📝 I regularly write articles on [hashnode.com/@prem-kumar-g](https://hashnode.com/@prem-kumar-g)
 ---
 
